@@ -11,5 +11,5 @@ Upload the servoMoveTest.ino to test if everything works with just one servo
 # Step 3:
 Upload the goToAngle.ino code and open serial monitor and starting at 90 degrees, type in different angles to find the open and close position of each finger.
 
-#Step 4:
+# Step 4:
 Edit the array of stored positions in 5_Fingers_openClose.ino to contain the values found in step 3. Upload the code to the arduino and in the serial monintor you should type in openall and closeall to move all finger servos at once.
